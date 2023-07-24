@@ -1,0 +1,405 @@
+{
+    "fooditems": [
+      {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "description": "Classic Italian pasta dish with rich meat sauce.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "300g spaghetti",
+      "500g ground beef",
+      "1 onion, diced",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "1/2 cup beef broth",
+      "1/4 cup red wine",
+      "1 tsp dried oregano",
+      "1/2 tsp dried basil",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese for garnish"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large skillet, brown ground beef over medium heat. Drain excess fat.",
+      "Add onions and garlic to the skillet and sauté until softened.",
+      "Stir in canned tomatoes, beef broth, and red wine. Add oregano, basil, salt, and pepper.",
+      "Simmer for 20 minutes, stirring occasionally.",
+      "Serve Bolognese sauce over cooked spaghetti. Garnish with Parmesan cheese."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Caesar Salad",
+    "description": "Classic salad with grilled chicken and Caesar dressing.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1 head romaine lettuce, chopped",
+      "1 cup croutons",
+      "1/2 cup grated Parmesan cheese",
+      "Caesar dressing",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Season chicken breasts with salt and pepper. Grill until cooked through.",
+      "Slice grilled chicken into strips.",
+      "In a large bowl, combine chopped romaine lettuce, croutons, and grated Parmesan cheese.",
+      "Toss salad with Caesar dressing until evenly coated.",
+      "Top salad with sliced grilled chicken.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Margherita Pizza",
+    "description": "Traditional Italian pizza with fresh tomatoes and basil.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 pizza dough",
+      "1/2 cup tomato sauce",
+      "1 1/2 cups shredded mozzarella cheese",
+      "2 tomatoes, sliced",
+      "Fresh basil leaves",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat the oven to 450°F (230°C).",
+      "Roll out the pizza dough on a floured surface to your desired thickness.",
+      "Transfer the dough to a pizza stone or a baking sheet.",
+      "Spread tomato sauce evenly over the dough.",
+      "Top with shredded mozzarella cheese and tomato slices.",
+      "Drizzle olive oil over the pizza and season with salt and pepper.",
+      "Bake in the preheated oven for 12-15 minutes or until the crust is golden and cheese is bubbly.",
+      "Garnish with fresh basil leaves before serving."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sushi Rolls",
+    "description": "Assorted sushi rolls with fresh fish and vegetables.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "Sushi rice",
+      "Nori seaweed sheets",
+      "Assorted sashimi-grade fish (tuna, salmon, yellowtail, etc.)",
+      "Cucumber, thinly sliced",
+      "Avocado, sliced",
+      "Soy sauce",
+      "Wasabi and pickled ginger for serving"
+    ],
+    "instructions": [
+      "Prepare sushi rice according to package instructions.",
+      "Place a bamboo sushi rolling mat on a clean surface, with the slats running horizontally.",
+      "Lay a sheet of nori on the bamboo mat, shiny side down.",
+      "Wet your hands to prevent sticking, then spread a thin layer of sushi rice on the nori, leaving about 1 inch at the top.",
+      "Arrange slices of fish, cucumber, and avocado in a line across the rice.",
+      "Carefully roll the bamboo mat away from you, tucking the filling in as you go.",
+      "Moisten the top edge of the nori to seal the roll.",
+      "Slice the roll into bite-sized pieces using a sharp knife.",
+      "Serve with soy sauce, wasabi, and pickled ginger."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chicken Alfredo",
+    "description": "Creamy pasta dish with chicken and Alfredo sauce.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "300g fettuccine pasta",
+      "2 boneless, skinless chicken breasts, cooked and sliced",
+      "2 cups heavy cream",
+      "1/2 cup unsalted butter",
+      "1 cup grated Parmesan cheese",
+      "2 cloves garlic, minced",
+      "Salt and pepper to taste",
+      "Fresh parsley for garnish"
+    ],
+    "instructions": [
+      "Cook fettuccine pasta according to package instructions.",
+      "In a saucepan, melt butter over medium heat. Add minced garlic and sauté until fragrant.",
+      "Pour in heavy cream and bring to a simmer, stirring constantly.",
+      "Stir in grated Parmesan cheese until the sauce is smooth and creamy.",
+      "Season with salt and pepper to taste.",
+      "Add the cooked sliced chicken to the Alfredo sauce and heat through.",
+      "Serve the Alfredo sauce over the cooked fettuccine.",
+      "Garnish with fresh parsley."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fruit Smoothie Bowl",
+    "description": "Healthy and colorful smoothie bowl with fresh fruits and granola.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 cup frozen mixed berries (strawberries, blueberries, raspberries)",
+      "1 ripe banana",
+      "1/2 cup plain yogurt",
+      "1/4 cup almond milk",
+      "Fresh fruit slices (kiwi, berries, banana, etc.)",
+      "Granola",
+      "Chia seeds and shredded coconut for topping"
+    ],
+    "instructions": [
+      "In a blender, combine frozen mixed berries, ripe banana, plain yogurt, and almond milk.",
+      "Blend until smooth and creamy.",
+      "Pour the smoothie into a bowl.",
+      "Top the smoothie with fresh fruit slices, granola, chia seeds, and shredded coconut.",
+      "Enjoy"]
+    },
+    {
+    "id": 7,
+    "name": "Taco Salad",
+    "description": "Delicious Tex-Mex salad with seasoned ground beef and crunchy tortilla chips.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 packet taco seasoning",
+      "1 head lettuce, shredded",
+      "1 cup cherry tomatoes, halved",
+      "1 cup shredded cheddar cheese",
+      "1 cup corn kernels (cooked)",
+      "1 cup black beans (cooked)",
+      "1/2 cup sliced black olives",
+      "1/4 cup diced red onion",
+      "1/4 cup chopped cilantro",
+      "Tortilla chips",
+      "Sour cream and salsa for topping"
+    ],
+    "instructions": [
+      "In a skillet, cook ground beef over medium heat until browned. Drain excess fat.",
+      "Stir in taco seasoning and cook according to packet instructions.",
+      "In a large salad bowl, layer shredded lettuce, seasoned ground beef, cherry tomatoes, cheddar cheese, corn, black beans, black olives, diced red onion, and chopped cilantro.",
+      "Crush some tortilla chips over the salad.",
+      "Top with sour cream and salsa.",
+      "Toss the salad before serving."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mango Coconut Rice",
+    "description": "A tropical rice dish with mango and coconut flavors.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 cup jasmine rice",
+      "1 3/4 cups coconut milk",
+      "1 ripe mango, diced",
+      "1/4 cup shredded coconut (toasted)",
+      "1 tbsp sugar",
+      "1/4 tsp salt"
+    ],
+    "instructions": [
+      "Rinse the jasmine rice under cold water until the water runs clear.",
+      "In a saucepan, combine rinsed rice, coconut milk, sugar, and salt.",
+      "Bring the mixture to a boil over medium heat.",
+      "Reduce the heat to low, cover, and let it simmer for 15-20 minutes or until the rice is cooked and the liquid is absorbed.",
+      "Fluff the rice with a fork and let it cool slightly.",
+      "Stir in the diced mango and toasted shredded coconut.",
+      "Serve warm or at room temperature."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Greek Moussaka",
+    "description": "Classic Greek casserole with layers of eggplant, meat, and béchamel sauce.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "2 large eggplants, sliced",
+      "1 lb ground lamb or beef",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 can diced tomatoes",
+      "1/4 cup red wine",
+      "1 tsp dried oregano",
+      "1/2 tsp ground cinnamon",
+      "Salt and pepper to taste",
+      "4 cups béchamel sauce",
+      "1/2 cup grated Parmesan cheese"
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F (190°C).",
+      "Salt the eggplant slices and let them sit for 30 minutes to release excess moisture.",
+      "In a large skillet, cook ground lamb or beef until browned. Drain excess fat.",
+      "Add chopped onions and minced garlic to the skillet. Sauté until onions are soft.",
+      "Stir in diced tomatoes, red wine, dried oregano, ground cinnamon, salt, and pepper. Simmer for 10 minutes.",
+      "Rinse the eggplant slices and pat them dry with paper towels.",
+      "In a greased baking dish, layer half of the eggplant slices.",
+      "Spread half of the meat mixture over the eggplant layer.",
+      "Repeat with the remaining eggplant and meat mixture.",
+      "Pour béchamel sauce over the top and sprinkle with grated Parmesan cheese.",
+      "Bake in the preheated oven for 45-50 minutes or until the top is golden and bubbling.",
+      "Let it cool slightly before serving."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Chip Cookies",
+    "description": "Classic homemade cookies with chocolate chips.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 cup unsalted butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup brown sugar, packed",
+      "2 large eggs",
+      "1 tsp vanilla extract",
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "2 cups semisweet chocolate chips",
+      "1 cup chopped nuts (optional)"
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F (190°C).",
+      "In a large bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy.",
+      "Beat in the eggs one at a time, then stir in the vanilla extract.",
+      "In a separate bowl, whisk together flour, baking soda, and salt.",
+      "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+      "Fold in the chocolate chips and chopped nuts (if using).",
+      "Drop rounded tablespoons of cookie dough onto ungreased baking sheets.",
+      "Bake in the preheated oven for 9-11 minutes or until the edges are golden brown.",
+      "Let the cookies cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Shrimp Scampi",
+    "description": "Delicious seafood pasta with garlic butter sauce.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "300g linguine pasta",
+      "1 lb large shrimp, peeled and deveined",
+      "4 cloves garlic, minced",
+      "1/4 cup white wine",
+      "1/4 cup chicken broth",
+      "1/4 cup fresh lemon juice",
+      "1/4 cup unsalted butter",
+      "2 tbsp olive oil",
+      "2 tbsp chopped fresh parsley",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese for serving"
+    ],
+    "instructions": [
+      "Cook linguine pasta according to package instructions.",
+      "In a large skillet, heat olive oil over medium heat.",
+      "Add minced garlic and sauté until fragrant.",
+      "Add shrimp and cook until they turn pink and opaque.",
+      "Remove shrimp from the skillet and set them aside.",
+      "In the same skillet, add white wine, chicken broth, and lemon juice.",
+      "Simmer for a few minutes, allowing the liquid to reduce slightly.",
+      "Stir in unsalted butter until it melts and forms a creamy sauce.",
+      "Season with salt and pepper to taste.",
+      "Add cooked linguine and shrimp to the sauce. Toss to coat everything evenly.",
+      "Sprinkle chopped fresh parsley over the pasta before serving.",
+      "Serve with grated Parmesan cheese on top."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Vegetable Stir-Fry",
+    "description": "Healthy and colorful stir-fry with a mix of fresh vegetables and tofu.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 block firm tofu, cubed",
+      "2 cups broccoli florets",
+      "1 red bell pepper, sliced",
+      "1 yellow bell pepper, sliced",
+      "1 cup sliced carrots",
+      "1 cup snow peas",
+      "3 cloves garlic, minced",
+      "1/4 cup soy sauce",
+      "2 tbsp hoisin sauce",
+      "1 tbsp sesame oil",
+      "2 tbsp vegetable oil",
+      "Cooked rice for serving"
+    ],
+    "instructions": [
+      "In a wok or large skillet, heat vegetable oil over medium-high heat.",
+      "Add cubed tofu and stir-fry until lightly browned on all sides. Remove from the wok and set aside.",
+      "In the same wok, add sesame oil and minced garlic. Sauté until fragrant.",
+      "Add broccoli, bell peppers, carrots, and snow peas. Stir-fry until the vegetables are tender-crisp.",
+      "In a small bowl, mix soy sauce and hoisin sauce. Pour the sauce over the vegetables.",
+      "Add the cooked tofu back to the wok and toss everything together to coat in the sauce.",
+      "Serve the vegetable stir-fry over cooked rice."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Caprese Salad",
+    "description": "Refreshing Italian salad with fresh tomatoes, mozzarella, and basil.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "3 large ripe tomatoes, sliced",
+      "8 oz fresh mozzarella cheese, sliced",
+      "1 cup fresh basil leaves",
+      "2 tbsp balsamic glaze",
+      "2 tbsp extra-virgin olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Arrange the sliced tomatoes and mozzarella cheese on a serving platter, alternating them.",
+      "Tuck fresh basil leaves between the tomato and cheese slices.",
+      "Drizzle balsamic glaze and extra-virgin olive oil over the salad.",
+      "Season with salt and pepper to taste.",
+      "Serve the Caprese salad immediately for the best flavor."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Thai Green Curry",
+    "description": "Aromatic and flavorful Thai curry with green curry paste and coconut milk.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 lb chicken or tofu, cut into bite-sized pieces",
+      "2 tbsp green curry paste",
+      "1 can (14 oz) coconut milk",
+      "1 cup sliced bell peppers",
+      "1 cup sliced zucchini",
+      "1 cup sliced bamboo shoots",
+      "1 cup Thai basil leaves",
+      "2 tbsp fish sauce or soy sauce",
+      "1 tbsp vegetable oil",
+      "Cooked jasmine rice for serving"
+    ],
+    "instructions": [
+      "In a large skillet or wok, heat vegetable oil over medium-high heat.",
+      "Add green curry paste and sauté for a minute until fragrant.",
+      "Add chicken or tofu to the skillet and cook until browned.",
+      "Pour in coconut milk and bring it to a gentle simmer.",
+      "Stir in sliced bell peppers, zucchini, and bamboo shoots.",
+      "Simmer for 5-7 minutes until the vegetables are tender.",
+      "Add fish sauce or soy sauce for seasoning.",
+      "Stir in Thai basil leaves just before serving.",
+      "Serve the Thai green curry over jasmine rice."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Blueberry Pancakes",
+    "description": "Fluffy pancakes with fresh blueberries, perfect for breakfast.",
+    "image_thum": "https://media.istockphoto.com/id/1190330112/photo/fried-pork-and-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=TzvLLGGvPAmxhKJ6fz91UGek-zLNNCh4iq7MVWLnFwo=",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tbsp granulated sugar",
+      "1 tsp baking powder",
+      "1/2 tsp baking soda",
+      "1/4 tsp salt",
+      "1 cup buttermilk",
+      "1 large egg",
+      "2 tbsp unsalted butter, melted",
+      "1 cup fresh blueberries",
+      "Maple syrup for serving"
+    ],
+    "instructions": [
+      "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+      "In a separate bowl, whisk buttermilk, egg, and melted butter.",
+      "Pour the wet ingredients into the dry ingredients and mix until just combined.",
+      "Gently fold in fresh blueberries.",
+      "Heat a non-stick skillet or griddle over medium heat.",
+      "Spoon the pancake batter onto the skillet, using about 1/4 cup for each pancake.",
+      "Cook until bubbles form on the surface, then flip and cook until golden brown on the other side.",
+      "Serve the blueberry pancakes with maple syrup."
+    ]
+  }
+  
+    ]
+  }
