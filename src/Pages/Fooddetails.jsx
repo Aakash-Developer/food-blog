@@ -10,7 +10,6 @@ const {foodItem,status} = useSelector((state)=>state.foodItem)
  useEffect(()=>{
   dispatch(GetFoodData(id))
  },[id,dispatch])
- console.log(foodItem)
   return (
     <div className='container my-5'>
     <div className='card border-0 shadow'>

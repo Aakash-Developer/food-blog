@@ -8,7 +8,6 @@ export default function Home() {
   useEffect(()=>{
     dispatch(GetFoodData())
   },[dispatch])
-  console.log(status)
   return (
     <div className='container-sm mt-5'>
     <div className='row row-gap-3'>

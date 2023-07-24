@@ -1,4 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
+import axios from "axios";
 
 const initialState={
     foodItem:{},
@@ -28,9 +29,8 @@ export function GetFoodData(id){
     return async function FetchFoodWithThunk(dispatch){
         dispatch(setStatus("loading"))
         try{
-            const res = await fetch(`http://localhost:3001/fooditems/${id}`)
-            const data =  await res.json();
-            dispatch(getFoodItem(data))
+            const res = await axios(`http://localhost:3001/fooditems/${id}`)
+            dispatch(getFoodItem(res.data))
             dispatch(setStatus("success"))
         }
         catch(err){
